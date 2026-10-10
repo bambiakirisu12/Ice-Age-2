@@ -209,4 +209,4 @@ Ice Age 2 is offered as a **full free version** with all features and updates in
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-10 09:10:22 UTC
+**Last updated:** 2026-10-10 15:36:21 UTC
